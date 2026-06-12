@@ -1,0 +1,34 @@
+
+EDA KEY FINDINGS — Bluestock MF Capstone
+==========================================
+
+1. NAV TRENDS: Large cap direct funds showed consistent upward trend 2022-2026,
+   with a visible dip in mid-2022 (global selloff) followed by strong recovery in 2023-24.
+
+2. AUM DOMINANCE: SBI MF leads with ~Rs.12.5 lakh crore AUM (Dec 2025), followed by
+   ICICI Prudential and HDFC MF. All top 3 nearly doubled AUM from 2022 to 2025.
+
+3. SIP MILESTONE: SIP inflows hit an all-time high of Rs.31,002 crore in Dec 2025,
+   up from Rs.11,517 crore in Jan 2022 — a 2.7x growth in 4 years.
+
+4. CATEGORY INFLOWS: Mid Cap and Small Cap categories saw highest net inflows in FY25,
+   signaling growing risk appetite among retail investors.
+
+5. FOLIO GROWTH: Total folios doubled from 13.26 crore (Jan 2022) to 26.12 crore (Dec 2025),
+   indicating massive new investor additions.
+
+6. DEMOGRAPHICS: 26-35 age group dominates SIP participation. Median SIP amount increases
+   with age — 56+ investors invest ~3x more per SIP than 18-25 investors.
+
+7. GEOGRAPHY: Maharashtra and Karnataka lead in SIP amount. T30 cities contribute ~68%
+   of total transaction value vs B30 at 32%.
+
+8. CORRELATION: Equity funds within the same sub-category (e.g. Large Cap) show high
+   correlation (>0.85), confirming limited diversification benefit within same category.
+
+9. SECTOR CONCENTRATION: Banking (top sector) accounts for the highest total portfolio
+   weight, followed by IT and Pharma — consistent with Nifty 50 composition.
+
+10. EXPENSE RATIO vs PERFORMANCE: No strong negative correlation between expense ratio
+    and Sharpe ratio, suggesting fund manager skill matters more than cost alone
+    in this dataset.
