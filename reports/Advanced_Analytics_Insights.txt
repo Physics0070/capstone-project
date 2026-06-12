@@ -1,0 +1,16 @@
+
+1. HIGHEST VAR: SBI Mutual Fund (Small Cap) has the worst
+   daily VaR of -2.686% — meaning on 5% of days, losses exceed this.
+
+2. ROLLING SHARPE: Top funds show Sharpe > 1.0 consistently post-2023, confirming
+   the bull market rewarded active fund managers well.
+
+3. COHORT BEHAVIOUR: 2024 cohort investors have higher avg SIP amounts than 2025 cohort,
+   suggesting more financially mature investors joined earlier.
+
+4. SIP AT-RISK: 1,332 investors (97.8%) show avg gaps
+   > 35 days between SIPs — potential churn risk for AMCs.
+
+5. SECTOR CONCENTRATION: Axis Mutual Fund is most concentrated
+   (HHI=2064) with heavy exposure to IT.
+   Diversified funds show HHI < 800.
